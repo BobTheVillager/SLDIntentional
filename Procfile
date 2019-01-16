@@ -1,1 +1,1 @@
-web: gunicorn SLDIntentional1:app
+web: gunicorn app:app
